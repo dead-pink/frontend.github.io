@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: rgb(146, 187, 189);
+}
+
+.contacts p{
+    font-size: 25px;
+
+}
+.contacts{
+    padding-top: 13%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.container_top{
+    width: 100%;
+    width: 1170px;
+    margin: 0 auto;
+}
+

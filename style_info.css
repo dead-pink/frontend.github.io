@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background: rgb(146, 187, 189);
+}
+.container_top{
+    width: 100%;
+    width: 1170px;
+    margin: 0 auto;
+}
+.container_betw{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.info{
+    padding-top: 15%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
